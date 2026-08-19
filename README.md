@@ -8,8 +8,8 @@ Online AI Programs CS Foundations Bootcamp.
 - module1/ : Development environment and first programs
 - module2/ : Programming fundamentals (variables, control flow, methods, files)
 - module3/ : Data structures and object-oriented basics
-- module4/: Version control with Git and Github
-- module6/: A look at systems-level programming
+- module4/ : Version control with Git and Github
+- module6/ : A look at systems-level programming
 
 ## Programs
 
